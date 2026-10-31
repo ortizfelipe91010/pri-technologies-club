@@ -566,7 +566,7 @@ var SL = [
                 '<h1 class="section-title">ADVERTISING POSTER</h1>' +
                 '<div class="media-showcase-sub">PRI TECHNOLOGY</div>' +
                 '<div class="media-frame">' +
-                    '<img src="' + encodeURI('media/PRI Infografia.png') + '" alt="PRI Technologies advertising poster">' +
+                    '<img src="' + encodeURI('PRI Infografia.png') + '" alt="PRI Technologies advertising poster">' +
                 '</div>' +
             '</div>';
     }]
